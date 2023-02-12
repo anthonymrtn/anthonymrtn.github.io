@@ -1,2 +1,2 @@
 # os231
-*This is a github page.*
+Go to [os231 GitHub Page](https://anthonymrtn.github.io/os231/)
